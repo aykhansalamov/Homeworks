@@ -1,3 +1,5 @@
+package hm1;
+
 import java.util.InputMismatchException;
 import java.util.Scanner;
 import java.util.Random;
